@@ -43,7 +43,7 @@ int main() {
 /*
 int main()
 {
-    std::string urunAdi;
+    string urunAdi;
     int adet;
     float birimFiyat, toplamTutar;
 
